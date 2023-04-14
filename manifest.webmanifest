@@ -1,8 +1,8 @@
 {
-  "name": "Urara",
-  "short_name": "Urara",
+  "name": "riqblog",
+  "short_name": "riqblog",
   "lang": "en-US",
-  "description": "Powered by SvelteKit/Urara",
+  "description": "Powered by SvelteKit",
   "id": "https://urara-demo.netlify.app/",
   "start_url": "/",
   "scope": "/",
