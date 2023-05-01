@@ -8,7 +8,7 @@ export const site: SiteConfig = {
   lang: 'en-US',
   description: 'Powered by SvelteKit',
   author: {
-    avatar: '/assets/maskable@512.png',
+    avatar: '/assets/m2c.jpg',
     name: 'Mikail Thoriq',
     status: '😎',
     bio: 'a tech enthusiast'

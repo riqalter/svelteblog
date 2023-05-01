@@ -56,8 +56,8 @@ export const head: HeadConfig = {}
 export const header: HeaderConfig = {
   nav: [
     {
-      text: 'Contact Me :)',
-      link: 'https://mikailthoriq.my.id/contact'
+      text: 'Main Website',
+      link: 'https://mikailthoriq.my.id'
     },
     {
       text: 'Elements',
