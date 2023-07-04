@@ -25,8 +25,7 @@ Materi agama juga mendorong individu untuk terlibat dalam kegiatan sosial yang b
 
 5. Mengatasi Konflik dan Mempromosikan Toleransi:
 Materi agama juga dapat membantu mengatasi konflik dalam masyarakat dan mempromosikan toleransi antarindividu. Dalam situasi konflik
-
- atau perbedaan pendapat, nilai-nilai agama yang mengajarkan kerukunan, keadilan, dan perdamaian dapat menjadi landasan bagi penyelesaian yang adil dan harmonis. Dengan menghargai perbedaan agama dan keyakinan orang lain, individu dapat membangun hubungan yang lebih baik dan mendorong integrasi sosial yang lebih kuat.
+atau perbedaan pendapat, nilai-nilai agama yang mengajarkan kerukunan, keadilan, dan perdamaian dapat menjadi landasan bagi penyelesaian yang adil dan harmonis. Dengan menghargai perbedaan agama dan keyakinan orang lain, individu dapat membangun hubungan yang lebih baik dan mendorong integrasi sosial yang lebih kuat.
 
 ### Kesimpulan:
 Materi agama memainkan peran penting dalam membentuk kehidupan individu di dalam masyarakat. Dari pengembangan spiritualitas hingga pembentukan nilai-nilai dan etika, serta panduan dalam pengambilan keputusan, agama memberikan fondasi yang kuat bagi individu untuk menjalani kehidupan yang bermakna dan bertanggung jawab. Dengan menerapkan ajaran-ajaran agama ini, kita dapat membangun masyarakat yang lebih adil, harmonis, dan penuh toleransi. Oleh karena itu, penting bagi setiap individu untuk memperkaya diri dengan materi agama dan mengintegrasikannya dalam kehidupan sehari-hari mereka.
