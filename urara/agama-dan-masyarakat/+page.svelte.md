@@ -1,5 +1,5 @@
 ---
-title: 'Agama & Masyarakat! (individu)'
+title: 'Agama & Masyarakat!'
 image: '/agama-dan-masyarakat/agama-masyarakat.jpg'
 created: 2023-07-04
 tags:
